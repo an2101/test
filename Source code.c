@@ -18,7 +18,7 @@ void main(void)
     LCD_Print("Project VXL");
     LCD_SetCursor(2,1);
     LCD_Print("Chao Cac Ban!");
-    __delay_cycles(3000000);
+    __delay_cycles(4000000);
     LCD_Clear();
     LCD_SetCursor(6,0);
     LCD_Print("Group");
